@@ -1,5 +1,5 @@
 
-         makeTodayDir.exe
+         MakeTodayDir.exe
 
 README: Программа для создания датированной папки и уведомления (C#-версия)
 
